@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "nama": "Ayam Geprek Sambal Matah",
+      "gambar": "https://radartasiktv.disway.id/uploads/Cuplikan-layar-2023-07-02-172119.png",
+      "harga": 25000
+    },
+    {
+      "id": 2,
+      "nama": "Nasi Goreng Spesial",
+      "gambar": "https://cdn1-production-images-kly.akamaized.net/a6xvLhjIWqlrNOdjaI40qxT_Jr0=/0x148:1920x1230/640x360/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg",
+      "harga": 22000
+    },
+    {
+      "id": 3,
+      "nama": "Mie Goreng Seafood",
+      "gambar": "https://allofresh.id/blog/wp-content/uploads/2023/09/cara-membuat-mie-goreng-4-1-768x512.jpg",
+      "harga": 28000
+    },
+    {
+      "id": 4,
+      "nama": "Sate Ayam",
+      "gambar": "https://img-global.cpcdn.com/recipes/a6ca9f36b02b089b/680x964cq70/sate-ayam-khas-madura-foto-resep-utama.webp",
+      "harga": 30000
+    },
+    {
+      "id": 5,
+      "nama": "Es Teh Manis",
+      "gambar": "https://asset.kompas.com/crops/9iB_ruTEMU7otPYnbCNVng8zhrQ=/0x0:4939x3293/1200x800/data/photo/2022/09/25/63300cfd403f0.jpg",
+      "harga": 8000
+    },
+    {
+      "id": 6,
+      "nama": "Kue Cubir Cokelat",
+      "gambar": "https://img-global.cpcdn.com/recipes/4f0cb2990ed3bef9/1200x630cq70/photo.jpg",
+      "harga": 15000
+    }
+  ]

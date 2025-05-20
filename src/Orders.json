@@ -1,0 +1,213 @@
+[
+    {
+      "OrderID": 101,
+      "CustomerName": "Alya Putri",
+      "Status": "Completed",
+      "TotalPrice": 125000,
+      "OrderDate": "2025-04-01"
+    },
+    {
+      "OrderID": 102,
+      "CustomerName": "Rizky Hidayat",
+      "Status": "Pending",
+      "TotalPrice": 89000,
+      "OrderDate": "2025-04-02"
+    },
+    {
+      "OrderID": 103,
+      "CustomerName": "Dewi Sartika",
+      "Status": "Cancelled",
+      "TotalPrice": 67000,
+      "OrderDate": "2025-04-03"
+    },
+    {
+      "OrderID": 104,
+      "CustomerName": "Budi Santoso",
+      "Status": "Completed",
+      "TotalPrice": 158000,
+      "OrderDate": "2025-04-04"
+    },
+    {
+      "OrderID": 105,
+      "CustomerName": "Intan Maharani",
+      "Status": "Pending",
+      "TotalPrice": 112000,
+      "OrderDate": "2025-04-05"
+    },
+    {
+      "OrderID": 106,
+      "CustomerName": "Yoga Pratama",
+      "Status": "Completed",
+      "TotalPrice": 94000,
+      "OrderDate": "2025-04-06"
+    },
+    {
+      "OrderID": 107,
+      "CustomerName": "Citra Lestari",
+      "Status": "Cancelled",
+      "TotalPrice": 72000,
+      "OrderDate": "2025-04-07"
+    },
+    {
+      "OrderID": 108,
+      "CustomerName": "Galih Ramadhan",
+      "Status": "Completed",
+      "TotalPrice": 132000,
+      "OrderDate": "2025-04-08"
+    },
+    {
+      "OrderID": 109,
+      "CustomerName": "Sari Wulandari",
+      "Status": "Pending",
+      "TotalPrice": 87000,
+      "OrderDate": "2025-04-09"
+    },
+    {
+      "OrderID": 110,
+      "CustomerName": "Dika Saputra",
+      "Status": "Completed",
+      "TotalPrice": 149000,
+      "OrderDate": "2025-04-10"
+    },
+    {
+      "OrderID": 111,
+      "CustomerName": "Lina Kurniawati",
+      "Status": "Completed",
+      "TotalPrice": 133000,
+      "OrderDate": "2025-04-11"
+    },
+    {
+      "OrderID": 112,
+      "CustomerName": "Fahri Zain",
+      "Status": "Cancelled",
+      "TotalPrice": 61000,
+      "OrderDate": "2025-04-12"
+    },
+    {
+      "OrderID": 113,
+      "CustomerName": "Nina Safira",
+      "Status": "Pending",
+      "TotalPrice": 92000,
+      "OrderDate": "2025-04-13"
+    },
+    {
+      "OrderID": 114,
+      "CustomerName": "Hendra Wijaya",
+      "Status": "Completed",
+      "TotalPrice": 146000,
+      "OrderDate": "2025-04-14"
+    },
+    {
+      "OrderID": 115,
+      "CustomerName": "Rani Oktaviani",
+      "Status": "Pending",
+      "TotalPrice": 79000,
+      "OrderDate": "2025-04-15"
+    },
+    {
+      "OrderID": 116,
+      "CustomerName": "Farhan Aditya",
+      "Status": "Completed",
+      "TotalPrice": 129000,
+      "OrderDate": "2025-04-16"
+    },
+    {
+      "OrderID": 117,
+      "CustomerName": "Vina Yuliana",
+      "Status": "Cancelled",
+      "TotalPrice": 83000,
+      "OrderDate": "2025-04-17"
+    },
+    {
+      "OrderID": 118,
+      "CustomerName": "Rizal Hakim",
+      "Status": "Pending",
+      "TotalPrice": 96000,
+      "OrderDate": "2025-04-18"
+    },
+    {
+      "OrderID": 119,
+      "CustomerName": "Yuni Dwi",
+      "Status": "Completed",
+      "TotalPrice": 138000,
+      "OrderDate": "2025-04-19"
+    },
+    {
+      "OrderID": 120,
+      "CustomerName": "Iqbal Ramzi",
+      "Status": "Completed",
+      "TotalPrice": 114000,
+      "OrderDate": "2025-04-20"
+    },
+    {
+      "OrderID": 121,
+      "CustomerName": "Tari Anggraini",
+      "Status": "Cancelled",
+      "TotalPrice": 71000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 122,
+      "CustomerName": "Ardi Firmansyah",
+      "Status": "Pending",
+      "TotalPrice": 99000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 123,
+      "CustomerName": "Mega Sari",
+      "Status": "Completed",
+      "TotalPrice": 141000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 124,
+      "CustomerName": "Dion Prasetyo",
+      "Status": "Completed",
+      "TotalPrice": 108000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 125,
+      "CustomerName": "Aisyah Hanum",
+      "Status": "Pending",
+      "TotalPrice": 86000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 126,
+      "CustomerName": "Nando Setiawan",
+      "Status": "Cancelled",
+      "TotalPrice": 74000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 127,
+      "CustomerName": "Yana Rahmawati",
+      "Status": "Completed",
+      "TotalPrice": 139000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 128,
+      "CustomerName": "Kevin Alvaro",
+      "Status": "Completed",
+      "TotalPrice": 122000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 129,
+      "CustomerName": "Tasya Fitria",
+      "Status": "Pending",
+      "TotalPrice": 88000,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": 130,
+      "CustomerName": "Reza Mahendra",
+      "Status": "Completed",
+      "TotalPrice": 135000,
+      "OrderDate": "2025-04-21"
+    }
+  ]
+  
