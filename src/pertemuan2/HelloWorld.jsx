@@ -9,7 +9,7 @@ export default function HelloWorld(){
     return (
         <div className="card">
             <h1>Hello World</h1>
-            <p>Selamat Belajar ReactJs</p>
+            <p>Selamat Belajar </p>
             <GreetingBinjai/>
             <QuoteText/>
             <UserCard 
