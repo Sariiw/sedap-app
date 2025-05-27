@@ -19,9 +19,10 @@ const Orders = React.lazy(() => import("./pages/Orders"));
 const Customers = React.lazy(() => import("./pages/Customers"));
 const AuthLayout = React.lazy(() => import("./layouts/AuthLayout"));
 const MainLayout = React.lazy(() => import("./layouts/MainLayout"));
+const Products = React.lazy(() => import("./pages/Products"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"));
 
-
-const GuestLayout= React.lazy(() => import("./layouts/GuestLayout"));
+const GuestLayout = React.lazy(() => import("./layouts/GuestLayout"));
 const Home = React.lazy(() => import("./pages/Guest/Home"));
 const About = React.lazy(() => import("./components/Guest/About"));
 const Testimoni = React.lazy(() => import("./components/Guest/Testimoni"));
@@ -41,6 +42,8 @@ function App() {
           <Route path="/formcust" element={<FormCustomer />} />
           <Route path="/formOrders" element={<FormOrders />} />
           <Route path="/user" element={<UserPage />} />
+          <Route path="/products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} />
         </Route>
 
         <Route element={<AuthLayout />}>

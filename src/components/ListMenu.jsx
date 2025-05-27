@@ -1,9 +1,10 @@
-import { HiUsers } from "react-icons/hi"; 
+import { HiUsers } from "react-icons/hi";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { AiOutlineUserAdd } from "react-icons/ai";
 import { AiOutlineDashboard } from "react-icons/ai";
 import { Link, NavLink } from "react-router-dom";
 import { MdErrorOutline } from "react-icons/md";
+import { MdFastfood } from "react-icons/md";
 
 export default function ListMenu() {
   const menuClass = ({ isActive }) =>
@@ -37,27 +38,34 @@ export default function ListMenu() {
           </li>
           <li>
             <NavLink id="menu-7" to="/user" className={menuClass}>
-              <HiUsers  className="mr-4 text-xl" />
+              <HiUsers className="mr-4 text-xl" />
               Users
             </NavLink>
           </li>
           {/* Menu Error Pages */}
           <li>
-            <NavLink  id="menu-4" to="/Error400" className={menuClass}>
+            <NavLink id="menu-4" to="/Error400" className={menuClass}>
               <MdErrorOutline className="mr-4 text-xl" />
               Error 400
             </NavLink>
           </li>
           <li>
-            <NavLink  id="menu-5" to="/Error401" className={menuClass}>
+            <NavLink id="menu-5" to="/Error401" className={menuClass}>
               <MdErrorOutline className="mr-4 text-xl" />
               Error 401
             </NavLink>
           </li>
           <li>
-            <NavLink  id="menu-6" to="/Error403" className={menuClass}>
+            <NavLink id="menu-6" to="/Error403" className={menuClass}>
               <MdErrorOutline className="mr-4 text-xl" />
               Error 403
+            </NavLink>
+          </li>
+
+          <li>
+            <NavLink id="menu-7" to="/products" className={menuClass}>
+              <MdFastfood className="mr-4 text-xl" />
+              Products
             </NavLink>
           </li>
         </ul>
