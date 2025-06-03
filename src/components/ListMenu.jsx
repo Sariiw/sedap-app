@@ -1,3 +1,4 @@
+import { BiNote } from "react-icons/bi"; 
 import { HiUsers } from "react-icons/hi";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { AiOutlineUserAdd } from "react-icons/ai";
@@ -44,9 +45,9 @@ export default function ListMenu() {
           </li>
           {/* Menu Error Pages */}
           <li>
-            <NavLink id="menu-4" to="/Error400" className={menuClass}>
-              <MdErrorOutline className="mr-4 text-xl" />
-              Error 400
+            <NavLink id="menu-4" to="/notes" className={menuClass}>
+              <BiNote className="mr-4 text-xl" />
+              Notes
             </NavLink>
           </li>
           <li>
