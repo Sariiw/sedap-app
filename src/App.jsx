@@ -10,6 +10,7 @@ import Error403 from "./pages/Error403";
 import FormCustomer from "./pages/FormCustomer";
 import FormOrders from "./pages/FormOrders";
 import Loading from "./components/Loading";
+import Notes from "./pages/Notes";
 
 const Dashboard = React.lazy(() => import("./pages/Dashbboard"));
 const Login = React.lazy(() => import("./pages/auth/Login"));
@@ -44,6 +45,7 @@ function App() {
           <Route path="/user" element={<UserPage />} />
           <Route path="/products" element={<Products />} />
           <Route path="/products/:id" element={<ProductDetail />} />
+          <Route path="/notes" element={<Notes />} />
         </Route>
 
         <Route element={<AuthLayout />}>
